@@ -10,9 +10,9 @@ invoice will contain the amount and all other necessary details.
 
 Frontend :
 
-HTML
-CSS
-JAVA SCRIPT
+1) HTML
+2) CSS
+3)JAVA SCRIPT
 
 Backend :
 Razorpay
