@@ -23,5 +23,4 @@ Bootstrap
 Website :
 https://missionvission.000webhostapp.com/
 
-![image](https://user-images.githubusercontent.com/76156666/124945587-eb403000-e02b-11eb-9c2e-07065367c27c.png)
 
