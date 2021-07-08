@@ -12,7 +12,7 @@ Frontend :
 
 1) HTML
 2) CSS
-3)JAVA SCRIPT
+3) JAVA SCRIPT
 
 Backend :
 Razorpay
