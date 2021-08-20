@@ -6,7 +6,7 @@ This is a Simple Donation Website to the poor one's.You can Donate as much as yo
 Once the payment is done and invoice will be generated and email will be sent to the user for the payment received. The
 invoice will contain the amount and all other necessary details.
 
-#Languages Used
+# Languages Used
 
 Frontend :
 
